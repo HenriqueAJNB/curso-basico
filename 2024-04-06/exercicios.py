@@ -12,3 +12,6 @@ def calcular_lucro_liquido(receita_total, despesas_totais):
 def calcular_bonus(salario_anual, avaliacao_desempenho):
     # Seu código aqui
     ...
+
+# Escrever exemplo de uso de cada função.
+# Explicar o porque a função retorna ou não retorna algo.
